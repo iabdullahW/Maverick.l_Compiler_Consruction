@@ -1,0 +1,17 @@
+// my own Maverick program
+begin
+int price = 12
+int qty = 4
+int total
+total = price * qty - 8
+say(total)
+say("hello maverick")
+if (total == 40)
+    say(total + qty)
+else
+    say("not forty")
+if (qty <= 4)
+    say("small order")
+if (price != 10)
+    say(total / 2)
+finish

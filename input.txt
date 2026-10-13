@@ -1,0 +1,10 @@
+Start
+
+let a;
+a = 3*4 + 2;
+show(a);
+show("sunny day")
+if (a <= 4)
+    show(a*a);
+
+End
